@@ -1,7 +1,7 @@
 # ctu
 chrome plugin for convert chinese to unicode
 ## manifest.json
-{
+    {
     "manifest_version": 2,
     "name": "chineseToUnicode",
     "description": "convert chinese to unicode",
@@ -15,7 +15,7 @@ chrome plugin for convert chinese to unicode
         "default_popup": "popup.html"
     },
     "offline_enabled":true
-}
+    }
 ## popup.html
 <html>
     <head>
